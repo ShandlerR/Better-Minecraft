@@ -1,0 +1,16 @@
+{
+    "format_version": "1.16.1",
+    "minecraft:recipe_brewing_mix": {
+      "description": {
+        "identifier": "minecraft:krug"
+      },
+  
+      "tags": [ "brewing_stand" ],
+  
+      "input": "minecraft:potion_type:fire_resistance",
+      "reagent": "minecraft:redstone",
+      "output": "minecraft:potion_type:long_fire_resistance"
+    }
+  
+  }
+  

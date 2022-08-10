@@ -7,6 +7,9 @@
 		},
 		"bmc.chocolate": {
 			"textures": "textures/items/chocolate"
+		},
+		"bmc.krug": {
+			"textures": "textures/items/krug_potion"
 		}
 	}
 }
