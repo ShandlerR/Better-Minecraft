@@ -4,6 +4,9 @@
 	"texture_data": {
 		"rose_gold_ingot": {
 			"textures": "textures/items/rose_gold_ingot"
+		},
+		"bmc.chocolate": {
+			"textures": "textures/items/chocolate"
 		}
 	}
 }

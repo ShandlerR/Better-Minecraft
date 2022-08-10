@@ -1,0 +1,25 @@
+{
+    "format_version": "1.16.1",
+    "minecraft:item": {
+        "description": {
+            "identifier": "BMC:chocolate",
+            "category": "Equipment"
+        },
+        "components": {
+            "minecraft:use_duration": 16,
+            "minecraft:food": {
+                "can_always_eat": true,
+                "nutrition": 2,
+                "saturation_modifier": "Poor",
+                "effects": [
+                    {
+                        "name": "speed",
+                        "chance": 1.0,
+                        "duration": 5,
+                        "amplifier": 1
+                    }
+                ]
+            }
+        }
+    }
+}

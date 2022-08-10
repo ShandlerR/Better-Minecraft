@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.1",
+	"minecraft:item": {
+		"description": {
+			"identifier": "BMC:chocolate"
+		},
+		"components": {
+			"minecraft:icon": "bmc.chocolate",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}
