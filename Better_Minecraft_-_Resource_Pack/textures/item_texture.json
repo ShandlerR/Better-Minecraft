@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "BMC",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"rose_gold_ingot": {
+			"textures": "textures/items/rose_gold_ingot"
+		}
+	}
+}

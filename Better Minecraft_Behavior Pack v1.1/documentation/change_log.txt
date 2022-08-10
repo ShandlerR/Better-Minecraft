@@ -1,0 +1,24 @@
+Version 1
+~~~~~~~~~~~~~~~
+- Lowered Creeper spawn weight from 100 to 25 (0.37 to 0.10 spawn pool chance)
+- Creepers are guarenteed to drop 3 gunpowder on death
+- skeleton min shot speed increased from 1.0 to 1.5
+- Lowered Horse's horizontal Hit box From 1.2 to 0.8 (Fit through 1 block holes)
+- Lowered Endermen's Teleport range from [64, 32, 64] to [20, 20, 20]
+- Changed Ender Pearl Drop Rate to 1 guaranteed
+- Changed Arrow Recipes from Flint-Stick-Feather to IronNugget-Stick-Feather
+- Lowered ghast spawn weight from 40 to 10
+
+
+Version 1.1
+~~~~~~~~~~~~~~~~
+- Changed amount of arrows crafted from 4 to 2, based on nugget availiability
+- Added Rose Gold Ingots
+	-Crafted using 4 Gold & 4 Copper
+- Added Chainmail Armor Set crafting recipe
+	-Changed Chainmail to use Iron Nuggets and Chains interlaced
+- Added Saddle Crafting Recipe
+- Reverted Ender Pearl Drop Rate back
+- Increased Enderman's Teleport range from [64, 32, 64] to [32, 20, 32]
+- Added Horse Armor Crafting Recipes
+	-Iron, Golden, & Diamond Horse Armor
