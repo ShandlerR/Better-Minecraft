@@ -16,7 +16,7 @@
                         "name": "speed",
                         "chance": 1.0,
                         "duration": 5,
-                        "amplifier": 1
+                        "amplifier": 0
                     }
                 ]
             }
