@@ -2,8 +2,7 @@
     "format_version": "1.16.1",
     "minecraft:item": {
         "description": {
-            "identifier": "BMC:chocolate",
-            "category": "Equipment"
+            "identifier": "BMC:chocolate"
         },
         "components": {
             "minecraft:use_duration": 16,

@@ -2,8 +2,7 @@
 	"format_version": "1.10",
 	"minecraft:item": {
 		"description": {
-			"identifier": "BMC:rose_gold_ingot",
-			"category": "Items"
+			"identifier": "BMC:rose_gold_ingot"
 		},
 		"components": {
 			"minecraft:icon": "rose_gold_ingot",
