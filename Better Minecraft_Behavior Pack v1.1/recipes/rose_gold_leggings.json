@@ -1,0 +1,24 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "bmc:rose_gold_leggings"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "bmc:rose_gold_ingot"
+      }
+    },
+    "result": {
+      "item": "bmc:rose_gold_leggings"
+    }
+  }
+}
