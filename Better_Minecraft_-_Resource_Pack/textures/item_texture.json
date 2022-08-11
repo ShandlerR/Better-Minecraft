@@ -10,6 +10,18 @@
 		},
 		"bmc.krug": {
 			"textures": "textures/items/krug_potion"
+		},
+		"rose_gold_chestplate": {
+			"textures": "textures/items/rose_gold_chestplate"
+		},
+		"rose_gold_leggings": {
+			"textures": "textures/items/rose_gold_leggings"
+		},
+		"rose_gold_helmet": {
+			"textures": "textures/items/rose_gold_helmet"
+		},
+		"rose_gold_boots": {
+			"textures": "textures/items/rose_gold_boots"
 		}
 	}
 }
