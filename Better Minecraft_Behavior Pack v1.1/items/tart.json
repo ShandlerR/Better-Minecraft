@@ -1,0 +1,16 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "BMC:Tart"
+    },
+
+    "components": {
+      "minecraft:use_duration": 32,
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": "Low"
+      }
+    }
+  }
+}

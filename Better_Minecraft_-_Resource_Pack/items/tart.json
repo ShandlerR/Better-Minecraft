@@ -1,0 +1,12 @@
+{
+	"format_version": "1.16.1",
+	"minecraft:item": {
+		"description": {
+			"identifier": "BMC:tart"
+		},
+		"components": {
+			"minecraft:icon": "bmc.tart",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}
