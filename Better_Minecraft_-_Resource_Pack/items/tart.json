@@ -5,8 +5,8 @@
 			"identifier": "BMC:tart"
 		},
 		"components": {
-			"minecraft:icon": "bmc.tart",
-			"minecraft:render_offsets": "apple"
+			"minecraft:icon": "tart",
+			"minecraft:render_offsets": "pumpkin_pie"
 		}
 	}
 }

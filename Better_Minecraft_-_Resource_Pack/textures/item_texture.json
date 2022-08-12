@@ -22,6 +22,9 @@
 		},
 		"rose_gold_boots": {
 			"textures": "textures/items/rose_gold_boots"
+		},
+		"tart": {
+			"textures": "textures/items/tart"
 		}
 	}
 }
