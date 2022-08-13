@@ -1,0 +1,24 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:stonecutter_spruce_trapdoor"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "priority": 3,
+    "ingredients": [
+      {
+        "item": "minecraft:planks",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:spruce_trapdoor",
+      "data": 0,
+      "count": 1
+    }
+  }
+  
+}
