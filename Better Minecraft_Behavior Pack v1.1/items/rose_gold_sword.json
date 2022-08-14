@@ -26,14 +26,32 @@
 			"minecraft:repairable": {
 				"repair_items": [
 					{
-						"items": ["minecraft:stick"],
+						"items": ["BMC:rose_gold_ingot"],
 						"repair_amount": "context.other->query.remaining_durability + 0.05 * context.other->query.max_durability"
 					}
 				]
 			},
 			"minecraft:durability": {
 				"max_durability": 750
+			},
+			"minecraft:digger": {
+				"use_efficiency": true,
+				"destroy_speeds": [
+					{
+						"block": {
+							"tags": "q.any_tag('wood')"
+						},
+						"speed": 8,
+						"on_dig": {
+							"event": "durability_update"
+						}
+					}
+				],
+				"on_dig": {
+					"event": "damage_item"
+				}
 			}
+			
 		}
 	}
 }
