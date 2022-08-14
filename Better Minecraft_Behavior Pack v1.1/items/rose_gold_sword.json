@@ -1,0 +1,54 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "BMC:rose_gold_sword",
+			"category": "equipment"
+		},
+		"components": {
+            },            
+            "minecraft:creative_category": {
+				"parent": "itemGroup.name.sword"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": true,
+			"minecraft:durability": {
+				"max_durability": 750
+			},
+			"minecraft:damage": 7.5,
+			"minecraft:enchantable": {
+				"value": 25,
+				"slot": "sword"
+			},
+			"minecraft:icon": {
+				"texture": "rose_gold_sword"
+			},
+			"minecraft:display_name": {
+				"value": "Rose Gold Sword"
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": "BMC:rose_gold",
+						"repair_amount": "context.other->query.remaining_durability + 0.05 * context.other->query.max_durability"
+					}
+				]
+			},
+            "minecraft:digger": {
+                "use_efficiency": true,
+                "destroy_speeds": [
+                    {
+                        "block": "minecraft:web",
+                        "speed": 15
+                    },
+                    {
+                        "block": "minecraft:bamboo",
+                        "speed": 10
+                    }
+                ],
+                "on_dig":{
+                    "event": "BMC:my_sword.on_dig_damage"
+                }
+		}
+	}
+}
