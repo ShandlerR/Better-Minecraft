@@ -2,6 +2,7 @@
 item.bmc:chocolate.name=Chocolate Bar
 item.bmc:krug.name=Mug of Krug
 item.bmc:tart.name=Berry Tart
+item.bmc:cheese.name=Block O' Cheese
 ## Comments can be added anywhere on a valid line by starting with '##'
 ##
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a

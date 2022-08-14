@@ -28,6 +28,9 @@
 		},
 		"rose_gold_sword": {
 			"textures": "textures/items/rose_gold_sword"
+		},
+		"cheese": {
+			"textures": "textures/items/cheese"
 		}
 	}
 }
