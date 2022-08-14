@@ -1,0 +1,27 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "bmc:rose_gold_sword"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X",
+      "X",
+      "Y"
+    ],
+    "key": {
+      "X": {
+        "item": "bmc:rose_gold_ingot"
+      },
+      "Y": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "bmc:rose_gold_sword"
+    }
+  }
+}

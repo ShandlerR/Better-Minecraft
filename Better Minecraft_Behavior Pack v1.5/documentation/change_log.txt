@@ -22,3 +22,18 @@ Version 1.1
 - Increased Enderman's Teleport range from [64, 32, 64] to [32, 20, 32]
 - Added Horse Armor Crafting Recipes
 	-Iron, Golden, & Diamond Horse Armor
+
+Version 1.2
+~~~~~~~~~~~~~~~~
+- Added Rose Gold Armor Set
+- Added Rose Gold Sword
+	-Using Non-Standard model base
+-Added Various Food Items
+	-Tart
+	-Chocolate
+	-Cheese
+	   {currently is an item; intend to make function like a melon block}
+	-Krug (New Potion; Gives 3mins of Resistance & 30sec nausea)
+-Stone Cutter now includes Wood; from Planks
+-Blast Furnace now accepts Cobblestone
+-TNT power increased to that of Charged Creeper (4 to 6)

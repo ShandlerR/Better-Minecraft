@@ -1,0 +1,16 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:item": {
+    "description": {
+      "identifier": "BMC:cheese"
+    },
+
+    "components": {
+      "minecraft:use_duration": 16,
+      "minecraft:food": {
+        "nutrition": 3,
+        "saturation_modifier": "Poor"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "BMC:chocolate"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:milk_bucket",
+        "count":2
+      }
+    ],
+    "result": [
+      {
+        "item": "BMC:cheese",
+        "count": 6
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 0,
+        "count": 2
+      }
+    ]
+  }
+}
