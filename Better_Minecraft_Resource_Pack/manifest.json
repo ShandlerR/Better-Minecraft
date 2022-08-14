@@ -1,18 +1,18 @@
 {
-    "format_version": 2,
-    "header": {
-      "description": "Haz Roze Go1d",
-      "name": "Better Minecraft - Resource Pack",
-      "uuid":"1efa0c80-f94d-423f-8f8c-a0dac2d9b474",
-      "version": [1, 1, 1],
-      "min_engine_version": [1, 16, 1]
-     },
-    "modules": [
-      {
-        "description": "~~~",
-        "type": "resources",
-        "uuid": "f90b8a35-b87d-47c0-9d8e-9b1acb4d3319",
-        "version": [1, 0, 0]
-      }
-    ]
-   }
+  "format_version": 2,
+  "header": {
+    "description": "[v1.2] Includes New Food Items, Rose Gold Armor & Sword",
+    "name": "Better Minecraft - Resource Pack",
+    "uuid":"1efa0c80-f94d-423f-8f8c-a0dac2d9b474",
+    "version": [1, 2, 0],
+    "min_engine_version": [1, 16, 1]
+   },
+  "modules": [
+    {
+      "description": "~~~",
+      "type": "resources",
+      "uuid": "f90b8a35-b87d-47c0-9d8e-9b1acb4d3319",
+      "version": [1, 0, 0]
+    }
+  ]
+ }
