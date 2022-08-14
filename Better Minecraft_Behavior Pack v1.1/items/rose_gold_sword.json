@@ -33,7 +33,34 @@
 			},
 			"minecraft:durability": {
 				"max_durability": 750
+			},
+			"minecraft:digger": {
+				"use_efficiency": true,
+				"destroy_speeds": [
+					{
+						"block": "minecraft:web",
+						"speed": 15
+					},
+					{
+						"block": "minecraft:bamboo",
+						"speed": 10
+					}
+				],
+				"on_dig":{
+					"event": "BMC:my_sword.on_dig_damage"
+				}
+			}
+			
+		},
+		"events": {
+			"BMC:my_sword.on_dig_damage": {
+				"damage":{
+					"type":"durability",
+					"target":"self",
+					"amount":1
+				}
 			}
 		}
+		
 	}
 }
