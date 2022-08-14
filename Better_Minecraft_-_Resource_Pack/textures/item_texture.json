@@ -11,21 +11,6 @@
 		"bmc.krug": {
 			"textures": "textures/items/krug_potion"
 		},
-		"rose_gold_sword": {
-			"textures": "textures/items/rose_gold_sword"
-		},
-		"rose_gold_pickaxe": {
-			"textures": "textures/items/rose_gold_pickaxe"
-		},
-		"rose_gold_axe": {
-			"textures": "textures/items/rose_gold_axe"
-		},
-		"rose_gold_shovel": {
-			"textures": "textures/items/rose_gold_shovel"
-		},
-		"rose_gold_hoe": {
-			"textures": "textures/items/rose_gold_hoe"
-		},
 		"rose_gold_chestplate": {
 			"textures": "textures/items/rose_gold_chestplate"
 		},
@@ -40,6 +25,9 @@
 		},
 		"tart": {
 			"textures": "textures/items/tart"
+		},
+		"rose_gold_sword": {
+			"textures": "textures/items/rose_gold_sword"
 		}
 	}
 }
