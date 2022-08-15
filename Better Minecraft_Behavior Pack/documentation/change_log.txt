@@ -28,12 +28,18 @@ Version 1.2
 - Added Rose Gold Armor Set
 - Added Rose Gold Sword
 	-Using Non-Standard model base
--Added Various Food Items
+- Added Various Food Items
 	-Tart
 	-Chocolate
 	-Cheese
 	   {currently is an item; intend to make function like a melon block}
 	-Krug (New Potion; Gives 3mins of Resistance & 30sec nausea)
--Stone Cutter now includes Wood; from Planks
--Blast Furnace now accepts Cobblestone
--TNT power increased to that of Charged Creeper (4 to 6)
+- Stone Cutter now includes Wood; from Planks
+- Blast Furnace now accepts Cobblestone
+- TNT power increased to that of Charged Creeper (4 to 6)
+
+
+Version 1.2.1
+~~~~~~~~~~~~~~~~
+- Changed Rose Gold Ingot Recipe to require 2 Gold instead of 4
+- Chocolate recipe to 2 Cocoa, 1 Milk, 1 Sugar (Shapeless)

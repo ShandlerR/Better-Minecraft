@@ -1,24 +1,24 @@
 {
   "format_version": "1.16.1",
-  "minecraft:recipe_shaped": {
+  "minecraft:recipe_shapeless": {
     "description": {
     "identifier": "BMC:chocolate"
     },
 
 
     "tags": [ "crafting_table" ],
-    "pattern": [
-      "IXI",
-      "I I"
-    ],
-    "key": {
-      "I": {
-        "item": "minecraft:cocoa_beans"
+    "ingredients": [
+      {
+        "item": "minecraft:cocoa_beans",
+        "count": 2
       },
-      "X": {
+      {
+        "item": "minecraft:sugar"
+      },
+      {
         "item": "minecraft:milk_bucket"
       }
-    },
+    ],
     "result": [
       {
         "item": "BMC:chocolate",
