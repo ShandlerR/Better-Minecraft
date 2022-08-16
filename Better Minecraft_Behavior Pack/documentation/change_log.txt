@@ -43,3 +43,4 @@ Version 1.2.1
 ~~~~~~~~~~~~~~~~
 - Changed Rose Gold Ingot Recipe to require 2 Gold instead of 4
 - Chocolate recipe to 2 Cocoa, 1 Milk, 1 Sugar (Shapeless)
+- Updated textures for Rose Gold Armor, Chocolate and Cheese
