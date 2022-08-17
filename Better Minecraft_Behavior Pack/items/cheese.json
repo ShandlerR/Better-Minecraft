@@ -1,16 +1,48 @@
+//bridge-file-version: #11
 {
-  "format_version": "1.16.1",
-  "minecraft:item": {
-    "description": {
-      "identifier": "BMC:cheese"
-    },
-
-    "components": {
-      "minecraft:use_duration": 16,
-      "minecraft:food": {
-        "nutrition": 3,
-        "saturation_modifier": "Poor"
-      }
-    }
-  }
-} 
+	"format_version": "1.16.1",
+	"minecraft:item": {
+		"description": {
+			"identifier": "BMC:cheese"
+		},
+		"components": {
+			"minecraft:max_stack_size": 16,
+			"minecraft:use_duration": 16,
+			"minecraft:food": {
+				"can_always_eat": true,
+				"remove_effects": [
+					"absorption",
+					"bad_omen",
+					"blindness",
+					"conduit_power",
+					"fatal_poison",
+					"fire_resistance",
+					"haste",
+					"health_boost",
+					"hunger",
+					"instant_damage",
+					"instant_health",
+					"invisibility",
+					"jump_boost",
+					"levitation",
+					"mining_fatigue",
+					"nausea",
+					"night_vision",
+					"poison",
+					"regeneration",
+					"resistance",
+					"slow_falling",
+					"slowness",
+					"speed",
+					"strength",
+					"village_hero",
+					"water_breathing",
+					"weakness",
+					"wither",
+					"darkness"
+				]
+			}
+		},
+		"events": {}
+	}
+}
