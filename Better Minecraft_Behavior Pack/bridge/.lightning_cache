@@ -25,6 +25,12 @@
 				"BMC:rose_gold_sword"
 			],
 			"custom_commands": []
+		},
+		"BP/items/cheese.json": {
+			"identifiers": [
+				"BMC:cheese"
+			],
+			"custom_commands": []
 		}
 	}
 }
