@@ -1,0 +1,20 @@
+{
+  "format_version": "1.16.1",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "BMC:stick_from_bamboo"
+    },
+
+
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:bamboo",
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:stick"
+    }
+  }
+}

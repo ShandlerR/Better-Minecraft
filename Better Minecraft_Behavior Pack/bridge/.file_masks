@@ -1,0 +1,32 @@
+{
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"c92c65cb_c342_411c_a51c_5dba84909e2f": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"901e6bd5_105c_4f9a_891c_010ef334ffcc": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/rose_gold_sword.json": {
+		"data": {}
+	}
+}

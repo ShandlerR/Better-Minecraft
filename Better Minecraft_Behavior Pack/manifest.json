@@ -1,19 +1,37 @@
 {
-    "format_version": 2,
-    "header": {
-      "description": "[v1.2.1] Introducing a Rose Gold Armor Set, 4 New Food Items, and Improvements to Blast Furnace and Stone Cutter",
-      "name": "Better Minecraft - Behavior Pack",
-      "uuid":"b287d806-359d-4718-8851-843854732278",
-      "version": [1, 2, 1],
-      "min_engine_version": [1, 16, 1]
-    },
-    "modules":
-      [
-        {
-          "description": "~~~",
-            "type": "data",
-            "uuid": "67372787-a4a4-4a1f-8f9d-aa5a4e55937d",
-            "version": [1, 0, 0]
-        }
-      ]
-  }
+	"format_version": 2,
+	"header": {
+		"description": "[v1.2.1] Introducing a Rose Gold Armor Set, 4 New Food Items, and Improvements to Blast Furnace and Stone Cutter",
+		"name": "Better Minecraft - Behavior Pack",
+		"uuid": "b287d806-359d-4718-8851-843854732278",
+		"version": [
+			1,
+			2,
+			1
+		],
+		"min_engine_version": [
+			1,
+			16,
+			1
+		]
+	},
+	"modules": [
+		{
+			"description": "~~~",
+			"type": "data",
+			"uuid": "67372787-a4a4-4a1f-8f9d-aa5a4e55937d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"1.8.4"
+			]
+		}
+	}
+}
