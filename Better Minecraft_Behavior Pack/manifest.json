@@ -33,5 +33,15 @@
 				"1.8.4"
 			]
 		}
-	}
+	},
+	"dependencies": [
+		{
+			"version": [
+				1,
+				2,
+				0
+			],
+			"uuid": "1efa0c80-f94d-423f-8f8c-a0dac2d9b474"
+		}
+	]
 }
