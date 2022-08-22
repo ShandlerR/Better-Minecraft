@@ -1,4 +1,4 @@
-//bridge-file-version: #13
+//bridge-file-version: #14
 {
 	"tiers": [
 		{
@@ -47,7 +47,7 @@
 							"wants": [
 								{
 									"item": "minecraft:string",
-									"quantity": 32,
+									"quantity": 20,
 									"price_multiplier": 0.05
 								}
 							],
