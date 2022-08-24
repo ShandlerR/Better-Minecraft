@@ -41,5 +41,8 @@
 	},
 	"BP/items/cheese.json": {
 		"data": {}
+	},
+	"BP/loot_tables/entities/enderman.json": {
+		"data": {}
 	}
 }
