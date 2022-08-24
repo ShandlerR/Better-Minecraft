@@ -1,4 +1,5 @@
-﻿item.bmc:rose_gold_ingot.name=Rose Gold Ingot
+##bridge-file-version: #0
+item.bmc:rose_gold_ingot.name=Rose Gold Ingot
 item.bmc:chocolate.name=Chocolate Bar
 item.bmc:krug.name=Mug of Krug
 item.bmc:tart.name=Berry Tart
@@ -2645,7 +2646,7 @@ entity.villager.cleric=Cleric
 entity.villager.farmer=Farmer
 entity.villager.fisherman=Fisherman
 entity.villager.fletcher=Fletcher
-entity.villager.leather=Leatherworker
+entity.villager.leather=Engineer
 entity.villager.librarian=Librarian
 entity.villager.shepherd=Shepherd
 entity.villager.tool=Tool Smith
