@@ -44,3 +44,10 @@ Version 1.2.1
 - Changed Rose Gold Ingot Recipe to require 2 Gold instead of 4
 - Chocolate recipe to 2 Cocoa, 1 Milk, 1 Sugar (Shapeless)
 - Updated textures for Rose Gold Armor, Chocolate and Cheese
+
+Version 2.0
+~~~~~~~~~~~~~~~~
+- Overhauled All Villager trades
+	-I'm not listing them, figure it out.
+- Triple the amount of XP given from Xp Bottles (21 xp on average)
+- Added Chorus Fruit to Enderman Loot Table (20% Chance Drop Rate)
