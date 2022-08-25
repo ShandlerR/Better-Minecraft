@@ -1,4 +1,4 @@
-//bridge-file-version: #8
+//bridge-file-version: #10
 {
 	"tiers": [
 		{
@@ -78,6 +78,24 @@
 							"trader_exp": 2,
 							"max_uses": 16,
 							"reward_exp": true
+						},
+						{
+							"wants": [
+								{
+									"item": "minecraft:potato",
+									"quantity": 32,
+									"price_multiplier": 0.05
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"trader_exp": 2,
+							"max_uses": 16,
+							"reward_exp": true
 						}
 					]
 				},
@@ -95,6 +113,24 @@
 							"gives": [
 								{
 									"item": "minecraft:apple",
+									"quantity": 4
+								}
+							],
+							"trader_exp": 1,
+							"max_uses": 16,
+							"reward_exp": true
+						},
+						{
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1,
+									"price_multiplier": 0.05
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:honey_bottle",
 									"quantity": 4
 								}
 							],
