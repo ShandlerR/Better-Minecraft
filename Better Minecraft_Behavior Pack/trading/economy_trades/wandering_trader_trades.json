@@ -1,113 +1,10 @@
-//bridge-file-version: #39
+//bridge-file-version: #14
 {
 	"tiers": [
 		{
 			"groups": [
 				{
-					"num_to_select": 2,
-					"trades": [
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:wheat_seeds"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:pumpkin_seeds"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:melon_seeds"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:beetroot_seeds"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:red_mushroom"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:brown_mushroom"
-								}
-							]
-						},
-						{
-							"max_uses": 4,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:pumpkin"
-								}
-							]
-						}
-					]
-				},
-				{
-					"num_to_select": 1,
+					"num_to_select": 7,
 					"trades": [
 						{
 							"max_uses": 8,
@@ -217,7 +114,110 @@
 					]
 				},
 				{
-					"num_to_select": 1,
+					"num_to_select": 7,
+					"trades": [
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:wheat_seeds"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:pumpkin_seeds"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:melon_seeds"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:beetroot_seeds"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:red_mushroom"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						{
+							"max_uses": 4,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:pumpkin"
+								}
+							]
+						}
+					]
+				},
+				{
+					"num_to_select": 4,
 					"trades": [
 						{
 							"max_uses": 5,
@@ -234,11 +234,11 @@
 							]
 						},
 						{
-							"max_uses": 4,
+							"max_uses": 8,
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 3
+									"quantity": 1
 								}
 							],
 							"gives": [
@@ -291,7 +291,7 @@
 					]
 				},
 				{
-					"num_to_select": 2,
+					"num_to_select": 7,
 					"trades": [
 						{
 							"max_uses": 8,
@@ -328,7 +328,7 @@
 							"gives": [
 								{
 									"item": "minecraft:reeds",
-									"quantity": 1
+									"quantity": 8
 								}
 							]
 						},
@@ -343,6 +343,20 @@
 							"gives": [
 								{
 									"item": "minecraft:cactus"
+								}
+							]
+						},
+						{
+							"max_uses": 4,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 3
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:soul_sand"
 								}
 							]
 						},
@@ -375,20 +389,6 @@
 							]
 						},
 						{
-							"max_uses": 4,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 3
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:soul_sand"
-								}
-							]
-						},
-						{
 							"max_uses": 2,
 							"wants": [
 								{
@@ -405,59 +405,57 @@
 					]
 				},
 				{
-					"num_to_select": 7,
+					"num_to_select": 9,
 					"trades": [
+						{
+							"max_uses": 6,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 2
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:honey_bottle"
+								}
+							]
+						},
 						{
 							"max_uses": 1,
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 5
+									"quantity": 1
 								}
 							],
 							"gives": [
 								{
-									"choice": [
+									"item": "minecraft:goat_horn",
+									"quantity": 1,
+									"functions": [
 										{
-											"item": "minecraft:goat_horn:0"
-										},
-										{
-											"item": "minecraft:goat_horn:1"
-										},
-										{
-											"item": "minecraft:goat_horn:2"
-										},
-										{
-											"item": "minecraft:goat_horn:3"
-										},
-										{
-											"item": "minecraft:goat_horn:4"
-										},
-										{
-											"item": "minecraft:goat_horn:5"
-										},
-										{
-											"item": "minecraft:goat_horn:6"
-										},
-										{
-											"item": "minecraft:goat_horn:6"
+											"function": "random_aux_value",
+											"values": {
+												"min": 0,
+												"max": 7
+											}
 										}
 									]
 								}
 							]
 						},
 						{
-							"max_uses": 5,
+							"max_uses": 1,
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 2
+									"quantity": 1
 								}
 							],
 							"gives": [
 								{
-									"item": "minecraft:quartz",
-									"quantity": 3
+									"item": "minecraft:rabbit_foot"
 								}
 							]
 						},
@@ -466,7 +464,22 @@
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 2
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:quartz",
+									"quantity": 4
+								}
+							]
+						},
+						{
+							"max_uses": 5,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
 								}
 							],
 							"gives": [
@@ -476,16 +489,54 @@
 							]
 						},
 						{
-							"max_uses": 5,
+							"max_uses": 12,
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 2
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:candle"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
 								}
 							],
 							"gives": [
 								{
 									"item": "minecraft:sealantern"
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:dye",
+									"quantity": 3,
+									"functions": [
+										{
+											"function": "random_aux_value",
+											"values": {
+												"min": 0,
+												"max": 15
+											}
+										}
+									]
 								}
 							]
 						},
@@ -529,83 +580,6 @@
 											"item": "minecraft:double_plant:5"
 										}
 									]
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 3
-								}
-							],
-							"gives": [
-								{
-									"choice": [
-										{
-											"item": "minecraft:banner:0"
-										},
-										{
-											"item": "minecraft:banner:1"
-										},
-										{
-											"item": "minecraft:banner:2"
-										},
-										{
-											"item": "minecraft:banner:3"
-										},
-										{
-											"item": "minecraft:banner:4"
-										},
-										{
-											"item": "minecraft:banner:5"
-										},
-										{
-											"item": "minecraft:banner:6"
-										},
-										{
-											"item": "minecraft:banner:7"
-										},
-										{
-											"item": "minecraft:banner:8"
-										},
-										{
-											"item": "minecraft:banner:9"
-										},
-										{
-											"item": "minecraft:banner:10"
-										},
-										{
-											"item": "minecraft:banner:11"
-										},
-										{
-											"item": "minecraft:banner:12"
-										},
-										{
-											"item": "minecraft:banner:13"
-										},
-										{
-											"item": "minecraft:banner:14"
-										},
-										{
-											"item": "minecraft:banner:15"
-										}
-									]
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:candle"
 								}
 							]
 						}
