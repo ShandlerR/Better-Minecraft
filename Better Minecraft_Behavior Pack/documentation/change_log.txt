@@ -45,7 +45,7 @@ Version 1.2.1
 - Chocolate recipe to 2 Cocoa, 1 Milk, 1 Sugar (Shapeless)
 - Updated textures for Rose Gold Armor, Chocolate and Cheese
 
-Version 2.0
+Version 1.3.0
 ~~~~~~~~~~~~~~~~
 - Overhauled All Villager trades
 	-I'm not listing them, figure it out.
