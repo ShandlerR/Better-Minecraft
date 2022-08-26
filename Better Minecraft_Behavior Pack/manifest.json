@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"description": "[v1.2.1] Introducing a Rose Gold Armor Set, 4 New Food Items, and Improvements to Blast Furnace and Stone Cutter",
+		"description": "[v2] Villager Economist Update!   Drastic improvements to all villager trades, and the introduction of the Engineer!*            *(replacing the Leatherworker)",
 		"name": "Better Minecraft - Behavior Pack",
 		"uuid": "b287d806-359d-4718-8851-843854732278",
 		"version": [
-			1,
 			2,
-			1
+			0,
+			0
 		],
 		"min_engine_version": [
 			1,
