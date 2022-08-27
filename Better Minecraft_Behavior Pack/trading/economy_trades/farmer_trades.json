@@ -82,7 +82,7 @@
 						{
 							"wants": [
 								{
-									"item": "minecraft:potato",
+									"item": "minecraft:beetroot",
 									"quantity": 32,
 									"price_multiplier": 0.05
 								}
