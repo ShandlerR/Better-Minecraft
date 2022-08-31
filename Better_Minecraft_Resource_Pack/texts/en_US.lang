@@ -1,9 +1,9 @@
-##bridge-file-version: #0
+##bridge-file-version: #1
 item.bmc:rose_gold_ingot.name=Rose Gold Ingot
 item.bmc:chocolate.name=Chocolate Bar
 item.bmc:krug.name=Mug of Krug
 item.bmc:tart.name=Berry Tart
-item.bmc:cheese.name=Block O' Cheese
+item.bmc:cheese.name=Cheese Wedge
 ## Comments can be added anywhere on a valid line by starting with '##'
 ##
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
