@@ -1,4 +1,4 @@
-//bridge-file-version: #39
+//bridge-file-version: #42
 {
 	"tiers": [
 		{
@@ -220,6 +220,20 @@
 					"num_to_select": 1,
 					"trades": [
 						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 3
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:kelp"
+								}
+							]
+						},
+						{
 							"max_uses": 5,
 							"wants": [
 								{
@@ -298,6 +312,49 @@
 							"wants": [
 								{
 									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:reeds",
+									"quantity": 1
+								}
+							]
+						},
+						{
+							"max_uses": 12,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 1
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:cocoa"
+								}
+							]
+						},
+						{
+							"max_uses": 6,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
+									"quantity": 3
+								}
+							],
+							"gives": [
+								{
+									"item": "minecraft:bamboo"
+								}
+							]
+						},
+						{
+							"max_uses": 8,
+							"wants": [
+								{
+									"item": "minecraft:emerald",
 									"quantity": 5
 								}
 							],
@@ -322,55 +379,12 @@
 							"wants": [
 								{
 									"item": "minecraft:emerald",
-									"quantity": 1
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:reeds",
-									"quantity": 1
-								}
-							]
-						},
-						{
-							"max_uses": 8,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
 									"quantity": 3
 								}
 							],
 							"gives": [
 								{
 									"item": "minecraft:cactus"
-								}
-							]
-						},
-						{
-							"max_uses": 6,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 3
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:bamboo"
-								}
-							]
-						},
-						{
-							"max_uses": 12,
-							"wants": [
-								{
-									"item": "minecraft:emerald",
-									"quantity": 3
-								}
-							],
-							"gives": [
-								{
-									"item": "minecraft:kelp"
 								}
 							]
 						},

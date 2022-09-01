@@ -1,0 +1,15 @@
+//bridge-file-version: #1
+{
+	"format_version": 1.12,
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "bmc:furnace_red_sand"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "minecraft:red_sand",
+		"output": "minecraft:glass"
+	}
+}
