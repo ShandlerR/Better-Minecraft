@@ -1,4 +1,4 @@
-//bridge-file-version: #26
+//bridge-file-version: #27
 {
 	"tiers": [
 		{
@@ -103,7 +103,7 @@
 									"quantity": 1
 								}
 							],
-							"trader_exp": 5,
+							"trader_exp": 1,
 							"max_uses": 12,
 							"reward_exp": true
 						}

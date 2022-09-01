@@ -17,7 +17,7 @@
       }
     },
     "result": [
-      { "item": "BMC:cheese", "count": 6},
+      { "item": "BMC:cheese", "count": 3},
       { "item": "minecraft:bucket", "count": 2, "data": 0}
     ]
   }
