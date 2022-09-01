@@ -7,7 +7,7 @@
 		},
 		"trunk": {
 			"trunk_height": {
-				"range_min": 4,
+				"range_min": 5,
 				"range_max": 7
 			},
 			"trunk_block": {
@@ -19,7 +19,7 @@
 		},
 		"canopy": {
 			"canopy_offset": {
-				"min": -1,
+				"min": -3,
 				"max": 0
 			},
 			"variation_chance": [
