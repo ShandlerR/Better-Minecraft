@@ -332,7 +332,7 @@
 							],
 							"gives": [
 								{
-									"item": "minecraft:cocoa"
+									"item": "minecraft:cocoa_beans"
 								}
 							]
 						},
